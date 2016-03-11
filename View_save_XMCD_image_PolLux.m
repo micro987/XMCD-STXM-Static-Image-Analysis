@@ -14,6 +14,9 @@
 %
 % For bugs/improvements, please contact S. Finizio (simone.finizio@psi.ch)
 % Feel free to edit/improve the script as it best fits you
+%
+% VERSION 1.0 / 11.03.2016
+%
 
 close all
 clear all
